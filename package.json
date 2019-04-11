@@ -1,0 +1,41 @@
+{
+  "name": "ultimate-angular-extension-pack",
+  "displayName": "Ultimate Angular Extension Pack",
+  "description": "Includes all extensions you would ever need for angular development",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Angular.ng-template",
+    "AngularDoc.angulardoc-vscode",
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer",
+    "cyrilletuzi.angular-schematics",
+    "eamodio.gitlens",
+    "eg2.vscode-npm-script",
+    "Equinusocio.vsc-material-theme",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "gencer.html-slim-scss-css-class-completion",
+    "Gruntfuggly.todo-tree",
+    "herrmannplatz.npm-dependency-links",
+    "kevinkyang.auto-comment-blocks",
+    "MariusAlchimavicius.json-to-ts",
+    "Mikael.Angular-BeastCode",
+    "mrmlnc.vscode-scss",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "natewallace.angular2-inline",
+    "pflannery.vscode-versionlens",
+    "PKief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "ryanluker.vscode-coverage-gutters",
+    "streetsidesoftware.code-spell-checker",
+    "stringham.move-ts"
+  ]
+}
