@@ -1,6 +1,6 @@
 # [Ultimate Angular Extension Pack](https://github.com/GeorgeChackungal/Ultimate-Angular-Extension-Pack)
 
-An opinionated list of extensions to help you develop angular apps. To know more please refer to this [MEDIUM ARTICLE]([www.google.com](https://medium.com/@george2c/supercharge-your-angular-development-with-visual-studio-code-57ecd8cbf041)).
+An opinionated list of extensions to help you develop angular apps. To know more please refer to this [MEDIUM ARTICLE](https://medium.com/@george2c/supercharge-your-angular-development-with-visual-studio-code-57ecd8cbf041).
 
 To make the best use of the extensions, please include the recommended settings as defined in this [GIST](https://gist.github.com/GeorgeChackungal/9fabead914ace6aeac1bd508983680ae)
 
