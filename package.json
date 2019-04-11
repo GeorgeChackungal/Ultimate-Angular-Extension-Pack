@@ -7,9 +7,10 @@
     "publish": "vsce publish"
   },
   "galleryBanner": {
-    "color": "#F44336",
+    "color": "#8BC34A",
     "theme": "dark"
   },
+  "icon": "images/ultimateangularpack-xxxhdpi.png",
   "publisher": "George George Chackungal",
   "repository": {
     "type": "git",

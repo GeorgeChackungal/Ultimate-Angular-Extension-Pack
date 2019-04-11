@@ -1,9 +1,7 @@
-# Change Log
+# Ultimate Angular Extension Pack Change Log
 
-All notable changes to the "ultimate-angular-extension-pack" extension pack will be documented in this file.
+<a name="1.0.0"></a>
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+# 1.0.0 (2019-04-11)
 
-## [Unreleased]
-
-- Initial release
+- Initial Release
