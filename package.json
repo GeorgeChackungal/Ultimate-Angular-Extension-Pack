@@ -3,11 +3,47 @@
   "displayName": "Ultimate Angular Extension Pack",
   "description": "Includes all extensions you would ever need for angular development",
   "version": "1.0.0",
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#F44336",
+    "theme": "dark"
+  },
+  "publisher": "George George Chackungal",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GeorgeChackungal/Ultimate-Angular-Extension-Pack"
+  },
+  "bugs": {
+    "url": "https://github.com/GeorgeChackungal/Ultimate-Angular-Extension-Pack/issues"
+  },
+  "homepage": "https://github.com/GeorgeChackungal/Ultimate-Angular-Extension-Pack#readme",
   "engines": {
     "vscode": "^1.33.0"
   },
   "categories": [
     "Extension Packs"
+  ],
+  "keywords": [
+    "Angular",
+    "Angular 2",
+    "Angular 4",
+    "Angular 5",
+    "Angular 6",
+    "Angular 7",
+    "Angular 8",
+    "Angular Material",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "SCSS",
+    "Formatter",
+    "angular",
+    "angular cli",
+    "schematics",
+    "angular schematics",
+    "Templates"
   ],
   "extensionPack": [
     "Angular.ng-template",

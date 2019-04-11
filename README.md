@@ -4,8 +4,6 @@ An opinionated list of extensions to help you develop angular apps. To know more
 
 To make the best use of the extensions, please include the recommended settings as defined in this [GIST](https://gist.github.com/GeorgeChackungal/9fabead914ace6aeac1bd508983680ae)
 
-<script src="https://gist.github.com/GeorgeChackungal/9fabead914ace6aeac1bd508983680ae.js"></script>
-
 ## Installation
 
 To install the extension just execute the following command:
