@@ -5,6 +5,8 @@
 </p>
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
+[![Badge for version for Visual Studio Code extension george2c.ultimate-angular-extension-pack](https://vsmarketplacebadge.apphb.com/version/george2c.ultimate-angular-extension-pack.svg?color=blue&style=?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=george2c.ultimate-angular-extension-pack&wt.mc_id=vscodepeacock-github-jopapa) [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/george2c.ultimate-angular-extension-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=george2c.ultimate-angular-extension-pack)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating/george2c.ultimate-angular-extension-pack.svg?color=blue&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=george2c.ultimate-angular-extension-pack) 
 
 An opinionated list of extensions to help you develop angular apps. To know more please refer to this [MEDIUM ARTICLE](https://medium.com/@george2c/supercharge-your-angular-development-with-visual-studio-code-57ecd8cbf041).
 
